@@ -106,3 +106,9 @@ div.column span.eco{
     color: red;
     font-weight: 600;
 }
+
+.oldprice{
+    color: black;
+    text-decoration: line-through;
+    font-weight: 400;
+}
