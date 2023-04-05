@@ -56,3 +56,13 @@ div.column{
 div.column img{
     width: 100%;
 }
+
+div.column span.favourite-black{
+    position: absolute;
+    height: 3rem;
+    width: 3rem;
+    font-size: 2rem;
+    top: 1rem;
+    right: 0;
+    background-color: white;
+}
