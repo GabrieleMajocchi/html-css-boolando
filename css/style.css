@@ -145,4 +145,18 @@ footer{
     padding: 2rem 20rem;
     background-color: #1A1A1A;
     color: white;
+    line-height: 2rem;
+}
+
+footer h2{
+    font-size: 1.7rem;
+}
+
+footer span{
+    font-size: 0.8rem;
+    padding-right: 0.5rem;
+}
+
+footer h3{
+    font-size: 1rem;
 }
