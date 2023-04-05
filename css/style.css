@@ -79,6 +79,22 @@ div.column span.favourite-black{
     background-color: white;
 }
 
+span.favourite{
+    display: none;
+
+    color: red;
+    position: absolute;
+    height: 3rem;
+    width: 3rem;
+    font-size: 2rem;
+    top: 1rem;
+    right: 0;
+}
+
+div.column:hover span.favourite{
+    display: inline-block;
+}
+
 div.column span.discount{
     position: absolute;
     font-size: 1rem;
