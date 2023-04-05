@@ -101,3 +101,8 @@ div.column span.eco{
 .item-info h1{
     font-size: 1rem;
 }
+
+.price{
+    color: red;
+    font-weight: 600;
+}
