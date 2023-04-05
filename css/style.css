@@ -140,3 +140,9 @@ div.column span.eco{
     text-decoration: line-through;
     font-weight: 400;
 }
+
+footer{
+    padding: 2rem 20rem;
+    background-color: #1A1A1A;
+    color: white;
+}
