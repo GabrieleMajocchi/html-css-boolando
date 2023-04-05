@@ -35,3 +35,7 @@ header{
 .icons img{
     width: 1rem;
 }
+
+main{
+    padding: 3rem 20rem;
+}
