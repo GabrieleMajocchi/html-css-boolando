@@ -77,3 +77,14 @@ div.column span.discount{
     font-weight: 600;
     padding: 0.2rem 0.6rem;
 }
+
+div.column span.eco{
+    position: absolute;
+    font-size: 1rem;
+    bottom: 2.5rem;
+    left: 0;
+    color: white;
+    background-color: green;
+    font-weight: 600;
+    padding: 0.2rem 0.6rem;
+}
