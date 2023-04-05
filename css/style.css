@@ -92,3 +92,12 @@ div.column span.eco{
 .plus{
     margin-left: 4rem;
 }
+
+.item-info{
+    font-size: 1rem;
+    line-height: 1;
+}
+
+.item-info h1{
+    font-size: 1rem;
+}
