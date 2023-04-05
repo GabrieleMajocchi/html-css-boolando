@@ -43,3 +43,16 @@ main{
 main>div{
     margin-bottom: 3rem;
 }
+
+.item{
+    width: calc((100% / 3) - 12px);
+}
+
+div.column{
+    position: relative;
+    text-align: center ;
+}
+
+div.column img{
+    width: 100%;
+}
