@@ -19,4 +19,9 @@ header{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    
+}.info{
+    color: white;
+    width: 10.5rem;
+    font-weight: 600;
 }
