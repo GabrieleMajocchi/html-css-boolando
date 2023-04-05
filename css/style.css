@@ -8,3 +8,15 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+
+header{
+    padding: 1rem 20rem;
+    background-color: #FF6900;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
