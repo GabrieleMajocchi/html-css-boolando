@@ -39,3 +39,7 @@ header{
 main{
     padding: 3rem 20rem;
 }
+
+main>div{
+    margin-bottom: 3rem;
+}
