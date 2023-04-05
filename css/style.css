@@ -57,6 +57,18 @@ div.column img{
     width: 100%;
 }
 
+.second-img{
+    display: none;
+}
+
+div.column:hover .second-img{
+    display: inline-block;
+}
+
+div.column:hover .first-img{
+    display: none;
+}
+
 div.column span.favourite-black{
     position: absolute;
     height: 3rem;
